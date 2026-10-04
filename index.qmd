@@ -25,7 +25,7 @@ Innate-like T cells (ILTs), including Natural Killer T cells (NKTs), Mucosal-ass
 To overcome these limitations, we designed a 29-color spectral flow cytometry panel that allows for concomitant assessment of ILT subsets, employing human CD1d and MR1 tetramers to identify NKTs and MAITs, respectively. A preliminary analysis of cord blood specimens from neonates in our Malawian cohort by conventional flow cytometry has shown an increased Vd2 cell frequency, differentiation, and activation in HEU-hi infants, while the frequency of Vd2 cells producing IFNg or both INFg and TNFa upon polyclonal stimulation was significantly elevated in HEU-lo infants. In a distinct African cohort, HEU infants also displayed elevated MAIT frequency at birth. We thus incorporated markers that characterize ILT subset activation, differentiation, and function. The spectral flow cytometry results that we will present will be corroborated by direct comparison to conventional flow cytometry data. The implementation of this optimized spectral panel will allow a comprehensive profiling of these rare subsets in infants and help highlight effects arising in context of HIV prenatal exposure.
 
 [Code](https://github.com/DavidRach/ILTsInHEU_Cyto2023)
-[Poster](https://davidrach.github.io/ILTsInHEU_Cyto2023/DavidRach_Cyto2023.pdf)
+[Poster](/DavidRach_Cyto2023.pdf)
 
 
 ## License
