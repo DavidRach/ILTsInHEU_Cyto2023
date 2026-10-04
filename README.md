@@ -1,5 +1,4 @@
-# Abstract
-# Abstract
+## Abstract
 
 **Spectral flow cytometry analysis of Innate-like T cell responses in Malawian HIV-exposed Uninfected (HEU) Infants.**
 
@@ -13,27 +12,13 @@ Innate-like T cells (ILTs), including Natural Killer T cells (NKTs), Mucosal-ass
 
 To overcome these limitations, we designed a 29-color spectral flow cytometry panel that allows for concomitant assessment of ILT subsets, employing human CD1d and MR1 tetramers to identify NKTs and MAITs, respectively. A preliminary analysis of cord blood specimens from neonates in our Malawian cohort by conventional flow cytometry has shown an increased Vd2 cell frequency, differentiation, and activation in HEU-hi infants, while the frequency of Vd2 cells producing IFNg or both INFg and TNFa upon polyclonal stimulation was significantly elevated in HEU-lo infants. In a distinct African cohort, HEU infants also displayed elevated MAIT frequency at birth. We thus incorporated markers that characterize ILT subset activation, differentiation, and function. The spectral flow cytometry results that we will present will be corroborated by direct comparison to conventional flow cytometry data. The implementation of this optimized spectral panel will allow a comprehensive profiling of these rare subsets in infants and help highlight effects arising in context of HIV prenatal exposure.
 
-# Slides
-
-This is the repository for our Cyto 2023 "ILTs in HEU" poster.  
-
-Click [here](/DavidRach_Cyto2023.pdf) to navigate to the .pdf of the poster, which can be downloaded. 
-
-For our Cytometry in R course, click [here](https://umgcccfcsr.github.io/CytometryInR/course/). 
-
-For the InstrumentQC dashboard how-to website, click [here](https://davidrach.github.io/InstrumentQC_Install/)
-
-Click [here](https://github.com/DavidRach/Luciernaga) for information about the Luciernaga R package. 
-
-For information about our Coereba R package, click [here](https://github.com/DavidRach/Coereba)
+[Code](https://github.com/DavidRach/ILTsInHEU_Cyto2023)
+[Poster](https://davidrach.github.io/ILTsInHEU_Cyto2023/DavidRach_Cyto2023.pdf)
 
 
-# GitHub Repository organization. 
-
-Within this GitHub repository due to size limits, we are unable to provide the .svg files that were used to create the poster in [Inkscape](https://inkscape.org/), feel free to reach out to the UMGCCC Flow Cytometry Shared Resource email ("flowcore", "@", "som.umaryland.edu") to get a sharable copy. 
-
-The code to generate QR codes and extract survey comments in R can be found under the code_poster folder. Actual QR codes generated can be found under outputs folder. Images used that were brought in from other sources can be found in the images folder. 
-
-# License
+## License
 
 In our commitment to open-science and open-source, all teaching materials are freely offered under a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license, while all code examples are offered under the [AGPL3-0](https://www.gnu.org/licenses/agpl-3.0.en.html) copyleft license. 
+
+<br>
+<br>
